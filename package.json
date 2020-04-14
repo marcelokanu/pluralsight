@@ -14,7 +14,7 @@
     "start-dev": "concurrently \"npm run server\" \"npm run dev\""
   },
   "keywords": [],
-  "author": "Marcelo Bonilla",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.0.0",
